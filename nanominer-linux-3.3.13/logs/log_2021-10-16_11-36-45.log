@@ -1,0 +1,36 @@
+2021-Oct-16 11:36:45:                                    _                 
+2021-Oct-16 11:36:45:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Oct-16 11:36:45: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Oct-16 11:36:45: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Oct-16 11:36:45: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Oct-16 11:36:45: 
+2021-Oct-16 11:36:45: Version 3.3.13
+2021-Oct-16 11:36:45: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Oct-16 11:36:45: Started web interface on port 9090 without a password.
+2021-Oct-16 11:36:45: CUDA driver version is 11.0, runtime version is 10.0
+2021-Oct-16 11:36:45: Single device detected
+2021-Oct-16 11:36:45: GPU 0 PCI 65:00.0, Platform: CUDA, Name: GeForce GTX 1070, 8116 MB available
+2021-Oct-16 11:36:45: -------------------Ethash:------------------
+2021-Oct-16 11:36:45: Currency: Ethereum
+2021-Oct-16 11:36:45: Wallet: 0xe4aa3bfec6d4e205df1e8b19263b587424484fad
+2021-Oct-16 11:36:45: Rig name: Rig001
+2021-Oct-16 11:36:45: Email: kevin19930919@gmail.com
+2021-Oct-16 11:36:45: Hashrate threshold to restart miner is not set
+2021-Oct-16 11:36:45: Number of rejected shares per hour to restart miner is not set
+2021-Oct-16 11:36:45: Added pool: eth-jp1.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-asia1.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-us-west1.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-us-east1.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-au1.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-eu2.nanopool.org:9433
+2021-Oct-16 11:36:45: Added pool: eth-eu1.nanopool.org:9433
+2021-Oct-16 11:36:45: Auto pool sorting is enabled
+2021-Oct-16 11:36:45: Using all GPU devices
+2021-Oct-16 11:36:45: Memory tweak: 1
+2021-Oct-16 11:36:45: -------------Common parameters:-------------
+2021-Oct-16 11:36:45: Log path: ./logs/
+2021-Oct-16 11:36:45: Log is written to file
+2021-Oct-16 11:36:45: GPU watchdog is enabled
+2021-Oct-16 11:36:45: Never calling reboot.sh (always restarting the miner in case of errors). 
+2021-Oct-16 11:36:45: Setting up algorithm: Ethash
+2021-Oct-16 11:36:46: Connecting to pools...

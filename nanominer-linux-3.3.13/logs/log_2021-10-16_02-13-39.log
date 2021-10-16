@@ -1,0 +1,709 @@
+2021-Oct-16 02:13:39:                                    _                 
+2021-Oct-16 02:13:39:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Oct-16 02:13:39: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Oct-16 02:13:39: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Oct-16 02:13:39: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Oct-16 02:13:39: 
+2021-Oct-16 02:13:39: Version 3.3.13
+2021-Oct-16 02:13:39: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Oct-16 02:13:39: Started web interface on port 9090 without a password.
+2021-Oct-16 02:13:39: CUDA driver version is 11.0, runtime version is 10.0
+2021-Oct-16 02:13:39: Single device detected
+2021-Oct-16 02:13:39: GPU 0 PCI 65:00.0, Platform: CUDA, Name: GeForce GTX 1070, 8116 MB available
+2021-Oct-16 02:13:39: -------------------Ethash:------------------
+2021-Oct-16 02:13:39: Currency: Ethereum
+2021-Oct-16 02:13:39: Wallet: 0xe4aa3bfec6d4e205df1e8b19263b587424484fad
+2021-Oct-16 02:13:39: Rig name: Rig001
+2021-Oct-16 02:13:39: Email: kevin19930919@gmail.com
+2021-Oct-16 02:13:39: Hashrate threshold to restart miner is not set
+2021-Oct-16 02:13:39: Number of rejected shares per hour to restart miner is not set
+2021-Oct-16 02:13:39: Added pool: eth-jp1.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-asia1.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-us-west1.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-us-east1.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-eu2.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-au1.nanopool.org:9433
+2021-Oct-16 02:13:39: Added pool: eth-eu1.nanopool.org:9433
+2021-Oct-16 02:13:39: Auto pool sorting is enabled
+2021-Oct-16 02:13:39: Using all GPU devices
+2021-Oct-16 02:13:39: Memory tweak: 1
+2021-Oct-16 02:13:39: -------------Common parameters:-------------
+2021-Oct-16 02:13:39: Log path: ./logs/
+2021-Oct-16 02:13:39: Log is written to file
+2021-Oct-16 02:13:39: GPU watchdog is enabled
+2021-Oct-16 02:13:39: Never calling reboot.sh (always restarting the miner in case of errors). 
+2021-Oct-16 02:13:39: Setting up algorithm: Ethash
+2021-Oct-16 02:13:40: Connecting to pools...
+2021-Oct-16 02:13:46: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:13:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:13:52: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:13:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:35: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:41: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:14:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:18: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:24: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:36: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:42: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:49: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:15:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:01: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:07: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:32: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:38: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:44: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:50: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:16:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:33: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:39: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:40: There were no new jobs in the past four minutes. Stopping mining.
+2021-Oct-16 02:17:45: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:51: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:17:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:34: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:40: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:53: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:18:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:35: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:42: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:48: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:19:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:13: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:31: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:37: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:43: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:49: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:20:55: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:32: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:38: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:44: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:51: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:21:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:33: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:40: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:52: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:22:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:10: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:16: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:22: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:35: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:41: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:47: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:53: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:23:59: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:05: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:30: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:36: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:42: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:48: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:24:54: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:00: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:06: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:12: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:19: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:25: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:31: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:37: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:43: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:49: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:25:56: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:02: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:08: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:14: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:20: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:26: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:32: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:38: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:44: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:51: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:26:57: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:03: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:09: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:15: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:21: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:27: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:34: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:40: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:52: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 02:27:55: [Ethash] ~~~~~~ DevFee begin ~~~~~~
+2021-Oct-16 02:28:06: New job from commission host
+2021-Oct-16 02:28:06: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:26
+2021-Oct-16 02:28:06: GPU0 t=30°C fan 28% power 7.91W. Total power: 7.91W
+2021-Oct-16 02:28:06: New job from commission host
+2021-Oct-16 02:28:06: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:27
+2021-Oct-16 02:28:06: Ethereum last 10 min - Total: 0.000 H/s.
+2021-Oct-16 02:28:06: New job from commission host
+2021-Oct-16 02:28:06: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:27
+2021-Oct-16 02:28:06: GPU0 t=30°C fan 28% power 7.71W. Total power: 7.71W
+2021-Oct-16 02:28:10: New job from commission host
+2021-Oct-16 02:28:10: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:30
+2021-Oct-16 02:28:10: New job from commission host
+2021-Oct-16 02:28:10: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:30
+2021-Oct-16 02:28:10: GPU0 t=35°C fan 27% power 104.71W. Total power: 104.71W
+2021-Oct-16 02:28:10: New job from commission host
+2021-Oct-16 02:28:10: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:31
+2021-Oct-16 02:28:10: Ethereum last 10 min - Total: 0.000 H/s.
+2021-Oct-16 02:28:10: New job from commission host
+2021-Oct-16 02:28:10: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:31
+2021-Oct-16 02:28:10: GPU0 t=36°C fan 27% power 105.48W. Total power: 105.48W
+2021-Oct-16 02:28:10: New job from commission host
+2021-Oct-16 02:28:10: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:31
+2021-Oct-16 02:28:14: New job from commission host
+2021-Oct-16 02:28:14: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:34
+2021-Oct-16 02:28:14: GPU0 t=39°C fan 27% power 108.20W. Total power: 108.20W
+2021-Oct-16 02:28:14: New job from commission host
+2021-Oct-16 02:28:14: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:34
+2021-Oct-16 02:28:14: Ethereum last 10 min - Total: 0.000 H/s.
+2021-Oct-16 02:28:14: New job from commission host
+2021-Oct-16 02:28:14: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:35
+2021-Oct-16 02:28:14: GPU0 t=39°C fan 27% power 108.16W. Total power: 108.16W
+2021-Oct-16 02:28:16: New job from commission host
+2021-Oct-16 02:28:16: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:36
+2021-Oct-16 02:28:16: New job from commission host
+2021-Oct-16 02:28:16: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:36
+2021-Oct-16 02:28:16: GPU0 t=40°C fan 27% power 107.84W. Total power: 107.84W
+2021-Oct-16 02:28:19: New job from commission host
+2021-Oct-16 02:28:19: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:40
+2021-Oct-16 02:28:19: Ethereum last 10 min - Total: 0.000 H/s.
+2021-Oct-16 02:28:19: New job from commission host
+2021-Oct-16 02:28:19: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:40
+2021-Oct-16 02:28:19: GPU0 t=41°C fan 27% power 108.69W. Total power: 108.69W
+2021-Oct-16 02:28:19: New job from commission host
+2021-Oct-16 02:28:19: Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 14:40
+2021-Oct-16 02:28:21: GPU0: 4599 MB DAG generated in 11.98 seconds
+2021-Oct-16 02:28:22: New job from commission host
+2021-Oct-16 02:28:22: Ethereum - Total speed: 24.684 MH/s, Total shares: 0 Rejected: 0, Time: 14:42
+2021-Oct-16 02:28:22: GPU0 t=43°C fan 27% power 125.23W. Total power: 125.23W
+2021-Oct-16 02:28:22: New job from commission host
+2021-Oct-16 02:28:22: Ethereum - Total speed: 24.687 MH/s, Total shares: 0 Rejected: 0, Time: 14:42
+2021-Oct-16 02:28:22: Ethereum last 10 min - Total: 24.686 MH/s.
+2021-Oct-16 02:28:26: New job from commission host
+2021-Oct-16 02:28:26: Ethereum - Total speed: 24.689 MH/s, Total shares: 0 Rejected: 0, Time: 14:46
+2021-Oct-16 02:28:26: GPU0 t=45°C fan 27% power 126.06W. Total power: 126.06W
+2021-Oct-16 02:28:29: New job from commission host
+2021-Oct-16 02:28:29: Ethereum - Total speed: 24.692 MH/s, Total shares: 0 Rejected: 0, Time: 14:49
+2021-Oct-16 02:28:30: New job from commission host
+2021-Oct-16 02:28:30: Ethereum - Total speed: 24.693 MH/s, Total shares: 0 Rejected: 0, Time: 14:50
+2021-Oct-16 02:28:30: GPU0 t=47°C fan 28% power 126.50W. Total power: 126.50W
+2021-Oct-16 02:28:33: New job from commission host
+2021-Oct-16 02:28:33: Ethereum - Total speed: 24.694 MH/s, Total shares: 0 Rejected: 0, Time: 14:53
+2021-Oct-16 02:28:33: Ethereum last 10 min - Total: 24.691 MH/s.
+2021-Oct-16 02:28:33: New job from commission host
+2021-Oct-16 02:28:33: Ethereum - Total speed: 24.684 MH/s, Total shares: 0 Rejected: 0, Time: 14:54
+2021-Oct-16 02:28:33: GPU0 t=48°C fan 29% power 123.97W. Total power: 123.97W
+2021-Oct-16 02:28:36: New job from commission host
+2021-Oct-16 02:28:36: Ethereum - Total speed: 24.674 MH/s, Total shares: 0 Rejected: 0, Time: 14:56
+2021-Oct-16 02:28:36: New job from commission host
+2021-Oct-16 02:28:36: Ethereum - Total speed: 24.665 MH/s, Total shares: 0 Rejected: 0, Time: 14:57
+2021-Oct-16 02:28:36: GPU0 t=49°C fan 29% power 124.65W. Total power: 124.65W
+2021-Oct-16 02:28:38: New job from commission host
+2021-Oct-16 02:28:38: Ethereum - Total speed: 24.658 MH/s, Total shares: 0 Rejected: 0, Time: 14:58
+2021-Oct-16 02:28:38: Ethereum last 10 min - Total: 24.686 MH/s.
+2021-Oct-16 02:28:41: New job from commission host
+2021-Oct-16 02:28:41: Ethereum - Total speed: 24.650 MH/s, Total shares: 0 Rejected: 0, Time: 15:01
+2021-Oct-16 02:28:41: GPU0 t=50°C fan 30% power 125.23W. Total power: 125.23W
+2021-Oct-16 02:28:41: New job from commission host
+2021-Oct-16 02:28:41: Ethereum - Total speed: 24.644 MH/s, Total shares: 0 Rejected: 0, Time: 15:01
+2021-Oct-16 02:28:41: New job from commission host
+2021-Oct-16 02:28:41: Ethereum - Total speed: 24.644 MH/s, Total shares: 0 Rejected: 0, Time: 15:01
+2021-Oct-16 02:28:41: GPU0 t=51°C fan 31% power 125.28W. Total power: 125.28W
+2021-Oct-16 02:28:42: New job from commission host
+2021-Oct-16 02:28:42: Ethereum - Total speed: 24.631 MH/s, Total shares: 0 Rejected: 0, Time: 15:02
+2021-Oct-16 02:28:42: Ethereum last 10 min - Total: 24.679 MH/s.
+2021-Oct-16 02:28:42: New job from commission host
+2021-Oct-16 02:28:42: Ethereum - Total speed: 24.627 MH/s, Total shares: 0 Rejected: 0, Time: 15:02
+2021-Oct-16 02:28:42: GPU0 t=51°C fan 31% power 125.43W. Total power: 125.43W
+2021-Oct-16 02:28:45: New job from commission host
+2021-Oct-16 02:28:45: Ethereum - Total speed: 24.624 MH/s, Total shares: 0 Rejected: 0, Time: 15:05
+2021-Oct-16 02:28:45: New job from commission host
+2021-Oct-16 02:28:45: Ethereum - Total speed: 24.621 MH/s, Total shares: 0 Rejected: 0, Time: 15:05
+2021-Oct-16 02:28:45: GPU0 t=52°C fan 31% power 128.15W. Total power: 128.15W
+2021-Oct-16 02:28:46: New job from commission host
+2021-Oct-16 02:28:46: Ethereum - Total speed: 24.616 MH/s, Total shares: 0 Rejected: 0, Time: 15:07
+2021-Oct-16 02:28:46: Ethereum last 10 min - Total: 24.668 MH/s.
+2021-Oct-16 02:28:47: New job from commission host
+2021-Oct-16 02:28:47: Ethereum - Total speed: 24.609 MH/s, Total shares: 0 Rejected: 0, Time: 15:07
+2021-Oct-16 02:28:47: GPU0 t=53°C fan 32% power 128.40W. Total power: 128.40W
+2021-Oct-16 02:28:51: New job from commission host
+2021-Oct-16 02:28:51: Ethereum - Total speed: 24.606 MH/s, Total shares: 0 Rejected: 0, Time: 15:11
+2021-Oct-16 02:28:51: New job from commission host
+2021-Oct-16 02:28:51: Ethereum - Total speed: 24.603 MH/s, Total shares: 0 Rejected: 0, Time: 15:11
+2021-Oct-16 02:28:51: GPU0 t=54°C fan 33% power 125.97W. Total power: 125.97W
+2021-Oct-16 02:28:51: New job from commission host
+2021-Oct-16 02:28:51: Ethereum - Total speed: 24.588 MH/s, Total shares: 0 Rejected: 0, Time: 15:12
+2021-Oct-16 02:28:51: Ethereum last 10 min - Total: 24.658 MH/s.
+2021-Oct-16 02:28:52: New job from commission host
+2021-Oct-16 02:28:52: Ethereum - Total speed: 24.587 MH/s, Total shares: 0 Rejected: 0, Time: 15:12
+2021-Oct-16 02:28:52: GPU0 t=54°C fan 33% power 129.08W. Total power: 129.08W
+2021-Oct-16 02:28:52: New job from commission host
+2021-Oct-16 02:28:52: Ethereum - Total speed: 24.586 MH/s, Total shares: 0 Rejected: 0, Time: 15:12
+2021-Oct-16 02:28:52: New job from commission host
+2021-Oct-16 02:28:52: Ethereum - Total speed: 24.586 MH/s, Total shares: 0 Rejected: 0, Time: 15:12
+2021-Oct-16 02:28:52: GPU0 t=54°C fan 33% power 129.03W. Total power: 129.03W
+2021-Oct-16 02:28:55: New job from commission host
+2021-Oct-16 02:28:55: Ethereum - Total speed: 24.584 MH/s, Total shares: 0 Rejected: 0, Time: 15:15
+2021-Oct-16 02:28:55: Ethereum last 10 min - Total: 24.651 MH/s.
+2021-Oct-16 02:28:55: New job from commission host
+2021-Oct-16 02:28:55: Ethereum - Total speed: 24.583 MH/s, Total shares: 0 Rejected: 0, Time: 15:15
+2021-Oct-16 02:28:55: GPU0 t=55°C fan 33% power 129.61W. Total power: 129.61W
+2021-Oct-16 02:28:55: New job from commission host
+2021-Oct-16 02:28:55: Ethereum - Total speed: 24.582 MH/s, Total shares: 0 Rejected: 0, Time: 15:15
+2021-Oct-16 02:28:56: New job from commission host
+2021-Oct-16 02:28:56: Ethereum - Total speed: 24.580 MH/s, Total shares: 0 Rejected: 0, Time: 15:16
+2021-Oct-16 02:28:56: GPU0 t=56°C fan 33% power 129.71W. Total power: 129.71W
+2021-Oct-16 02:28:57: New job from commission host
+2021-Oct-16 02:28:57: Ethereum - Total speed: 24.579 MH/s, Total shares: 0 Rejected: 0, Time: 15:17
+2021-Oct-16 02:28:57: Ethereum last 10 min - Total: 24.647 MH/s.
+2021-Oct-16 02:28:57: New job from commission host
+2021-Oct-16 02:28:57: Ethereum - Total speed: 24.573 MH/s, Total shares: 0 Rejected: 0, Time: 15:17
+2021-Oct-16 02:28:57: GPU0 t=56°C fan 33% power 129.66W. Total power: 129.66W
+2021-Oct-16 02:28:58: New job from commission host
+2021-Oct-16 02:28:58: Ethereum - Total speed: 24.573 MH/s, Total shares: 0 Rejected: 0, Time: 15:18
+2021-Oct-16 02:29:00: New job from commission host
+2021-Oct-16 02:29:00: Ethereum - Total speed: 24.572 MH/s, Total shares: 0 Rejected: 0, Time: 15:20
+2021-Oct-16 02:29:00: GPU0 t=57°C fan 35% power 126.69W. Total power: 126.69W
+2021-Oct-16 02:29:00: New job from commission host
+2021-Oct-16 02:29:00: Ethereum - Total speed: 24.569 MH/s, Total shares: 0 Rejected: 0, Time: 15:21
+2021-Oct-16 02:29:00: Ethereum last 10 min - Total: 24.639 MH/s.
+2021-Oct-16 02:29:01: New job from commission host
+2021-Oct-16 02:29:01: Ethereum - Total speed: 24.546 MH/s, Total shares: 0 Rejected: 0, Time: 15:21
+2021-Oct-16 02:29:01: GPU0 t=57°C fan 35% power 125.92W. Total power: 125.92W
+2021-Oct-16 02:29:04: New job from commission host
+2021-Oct-16 02:29:04: Ethereum - Total speed: 24.525 MH/s, Total shares: 0 Rejected: 0, Time: 15:24
+2021-Oct-16 02:29:04: New job from commission host
+2021-Oct-16 02:29:04: Ethereum - Total speed: 24.505 MH/s, Total shares: 0 Rejected: 0, Time: 15:24
+2021-Oct-16 02:29:04: GPU0 t=58°C fan 36% power 125.96W. Total power: 125.96W
+2021-Oct-16 02:29:04: New job from commission host
+2021-Oct-16 02:29:04: Ethereum - Total speed: 24.488 MH/s, Total shares: 0 Rejected: 0, Time: 15:25
+2021-Oct-16 02:29:04: Ethereum last 10 min - Total: 24.630 MH/s.
+2021-Oct-16 02:29:07: New job from commission host
+2021-Oct-16 02:29:07: Ethereum - Total speed: 24.474 MH/s, Total shares: 0 Rejected: 0, Time: 15:27
+2021-Oct-16 02:29:07: GPU0 t=58°C fan 36% power 126.50W. Total power: 126.50W
+2021-Oct-16 02:29:08: [Ethash] ~~~~~~ DevFee end ~~~~~~
+2021-Oct-16 02:29:14: Connection was closed.
+2021-Oct-16 02:29:14: Connecting to pools...
+2021-Oct-16 02:29:20: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.101.197 | ping: 64 ms.
+2021-Oct-16 02:29:21: Connection was closed.
+2021-Oct-16 02:29:21: Connecting to pools...
+2021-Oct-16 02:29:27: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.32.71.82 | ping: 138 ms.
+2021-Oct-16 02:29:27: Connection was closed.
+2021-Oct-16 02:29:27: Connecting to pools...
+2021-Oct-16 02:29:33: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:29:34: Connection was closed.
+2021-Oct-16 02:29:34: Connecting to pools...
+2021-Oct-16 02:29:38: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 15:59
+2021-Oct-16 02:29:40: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.80 | ping: 205 ms.
+2021-Oct-16 02:29:40: Connection was closed.
+2021-Oct-16 02:29:40: Connecting to pools...
+2021-Oct-16 02:29:47: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:29:47: Connection was closed.
+2021-Oct-16 02:29:47: Connecting to pools...
+2021-Oct-16 02:29:53: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 163.172.162.51 | ping: 276 ms.
+2021-Oct-16 02:29:54: Connection was closed.
+2021-Oct-16 02:29:54: Connecting to pools...
+2021-Oct-16 02:30:00: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.81.90 | ping: 37 ms.
+2021-Oct-16 02:30:00: Connection was closed.
+2021-Oct-16 02:30:00: Connecting to pools...
+2021-Oct-16 02:30:06: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.70 | ping: 64 ms.
+2021-Oct-16 02:30:06: Connection was closed.
+2021-Oct-16 02:30:06: Connecting to pools...
+2021-Oct-16 02:30:09: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 16:30
+2021-Oct-16 02:30:09: GPU0 t=69°C fan 44% power 132.55W. Total power: 132.55W
+2021-Oct-16 02:30:12: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 66.42.105.146 | ping: 138 ms.
+2021-Oct-16 02:30:12: Connection was closed.
+2021-Oct-16 02:30:12: Connecting to pools...
+2021-Oct-16 02:30:19: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:30:19: Connection was closed.
+2021-Oct-16 02:30:19: Connecting to pools...
+2021-Oct-16 02:30:25: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 213.32.74.157 | ping: 205 ms.
+2021-Oct-16 02:30:26: Connection was closed.
+2021-Oct-16 02:30:26: Connecting to pools...
+2021-Oct-16 02:30:32: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:30:32: Connection was closed.
+2021-Oct-16 02:30:32: Connecting to pools...
+2021-Oct-16 02:30:39: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 151.80.59.84 | ping: 276 ms.
+2021-Oct-16 02:30:39: Connection was closed.
+2021-Oct-16 02:30:39: Connecting to pools...
+2021-Oct-16 02:30:40: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 17:01
+2021-Oct-16 02:30:40: Ethereum last 10 min - Total: 24.514 MH/s.
+2021-Oct-16 02:30:45: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:30:46: Connection was closed.
+2021-Oct-16 02:30:46: Connecting to pools...
+2021-Oct-16 02:30:52: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.101.232 | ping: 64 ms.
+2021-Oct-16 02:30:52: Connection was closed.
+2021-Oct-16 02:30:52: Connecting to pools...
+2021-Oct-16 02:30:58: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 66.42.105.146 | ping: 138 ms.
+2021-Oct-16 02:30:58: Connection was closed.
+2021-Oct-16 02:30:58: Connecting to pools...
+2021-Oct-16 02:31:05: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:31:05: Connection was closed.
+2021-Oct-16 02:31:05: Connecting to pools...
+2021-Oct-16 02:31:11: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 17:32
+2021-Oct-16 02:31:11: GPU0 t=74°C fan 48% power 133.80W. Total power: 133.80W
+2021-Oct-16 02:31:11: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.80 | ping: 205 ms.
+2021-Oct-16 02:31:12: Connection was closed.
+2021-Oct-16 02:31:12: Connecting to pools...
+2021-Oct-16 02:31:18: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:31:18: Connection was closed.
+2021-Oct-16 02:31:18: Connecting to pools...
+2021-Oct-16 02:31:25: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 163.172.162.51 | ping: 276 ms.
+2021-Oct-16 02:31:25: Connection was closed.
+2021-Oct-16 02:31:25: Connecting to pools...
+2021-Oct-16 02:31:31: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:31:31: Connection was closed.
+2021-Oct-16 02:31:31: Connecting to pools...
+2021-Oct-16 02:31:37: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 172.104.165.191 | ping: 64 ms.
+2021-Oct-16 02:31:37: Connection was closed.
+2021-Oct-16 02:31:37: Connecting to pools...
+2021-Oct-16 02:31:42: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 18:03
+2021-Oct-16 02:31:44: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 207.246.100.198 | ping: 138 ms.
+2021-Oct-16 02:31:44: Connection was closed.
+2021-Oct-16 02:31:44: Connecting to pools...
+2021-Oct-16 02:31:50: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 142.44.243.6 | ping: 194 ms.
+2021-Oct-16 02:31:50: Connection was closed.
+2021-Oct-16 02:31:50: Connecting to pools...
+2021-Oct-16 02:31:57: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.67.17 | ping: 205 ms.
+2021-Oct-16 02:31:57: Connection was closed.
+2021-Oct-16 02:31:57: Connecting to pools...
+2021-Oct-16 02:32:03: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:32:04: Connection was closed.
+2021-Oct-16 02:32:04: Connecting to pools...
+2021-Oct-16 02:32:10: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 51.15.89.69 | ping: 276 ms.
+2021-Oct-16 02:32:10: Connection was closed.
+2021-Oct-16 02:32:10: Connecting to pools...
+2021-Oct-16 02:32:13: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 18:34
+2021-Oct-16 02:32:13: GPU0 t=76°C fan 50% power 135.61W. Total power: 135.61W
+2021-Oct-16 02:32:16: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:32:16: Connection was closed.
+2021-Oct-16 02:32:16: Connecting to pools...
+2021-Oct-16 02:32:22: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.74 | ping: 64 ms.
+2021-Oct-16 02:32:22: Connection was closed.
+2021-Oct-16 02:32:22: Connecting to pools...
+2021-Oct-16 02:32:29: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 149.28.212.250 | ping: 138 ms.
+2021-Oct-16 02:32:29: Connection was closed.
+2021-Oct-16 02:32:29: Connecting to pools...
+2021-Oct-16 02:32:35: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 144.217.14.139 | ping: 194 ms.
+2021-Oct-16 02:32:35: Connection was closed.
+2021-Oct-16 02:32:35: Connecting to pools...
+2021-Oct-16 02:32:42: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.55.100 | ping: 205 ms.
+2021-Oct-16 02:32:42: Connection was closed.
+2021-Oct-16 02:32:42: Connecting to pools...
+2021-Oct-16 02:32:44: Ethereum - Total speed: 24.460 MH/s, Total shares: 0 Rejected: 0, Time: 19:05
+2021-Oct-16 02:32:44: Ethereum last 10 min - Total: 24.489 MH/s.
+2021-Oct-16 02:32:49: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:32:49: Connection was closed.
+2021-Oct-16 02:32:49: Connecting to pools...
+2021-Oct-16 02:32:55: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.219 | ping: 276 ms.
+2021-Oct-16 02:32:56: Connection was closed.
+2021-Oct-16 02:32:56: Connecting to pools...
+2021-Oct-16 02:33:02: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:33:02: Connection was closed.
+2021-Oct-16 02:33:02: Connecting to pools...
+2021-Oct-16 02:33:08: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 103.3.62.64 | ping: 64 ms.
+2021-Oct-16 02:33:08: Connection was closed.
+2021-Oct-16 02:33:08: Connecting to pools...
+2021-Oct-16 02:33:08: There were no new jobs in the past four minutes. Stopping mining.
+2021-Oct-16 02:33:14: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 207.246.100.198 | ping: 138 ms.
+2021-Oct-16 02:33:14: Connection was closed.
+2021-Oct-16 02:33:14: Connecting to pools...
+2021-Oct-16 02:33:21: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:33:21: Connection was closed.
+2021-Oct-16 02:33:21: Connecting to pools...
+2021-Oct-16 02:33:27: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.80 | ping: 205 ms.
+2021-Oct-16 02:33:28: Connection was closed.
+2021-Oct-16 02:33:28: Connecting to pools...
+2021-Oct-16 02:33:34: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:33:34: Connection was closed.
+2021-Oct-16 02:33:34: Connecting to pools...
+2021-Oct-16 02:33:41: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.230 | ping: 276 ms.
+2021-Oct-16 02:33:41: Connection was closed.
+2021-Oct-16 02:33:41: Connecting to pools...
+2021-Oct-16 02:33:47: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:33:47: Connection was closed.
+2021-Oct-16 02:33:47: Connecting to pools...
+2021-Oct-16 02:33:53: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.101.232 | ping: 64 ms.
+2021-Oct-16 02:33:53: Connection was closed.
+2021-Oct-16 02:33:53: Connecting to pools...
+2021-Oct-16 02:34:00: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 104.238.180.207 | ping: 138 ms.
+2021-Oct-16 02:34:00: Connection was closed.
+2021-Oct-16 02:34:00: Connecting to pools...
+2021-Oct-16 02:34:06: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 142.44.243.6 | ping: 194 ms.
+2021-Oct-16 02:34:06: Connection was closed.
+2021-Oct-16 02:34:06: Connecting to pools...
+2021-Oct-16 02:34:13: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.67.17 | ping: 205 ms.
+2021-Oct-16 02:34:13: Connection was closed.
+2021-Oct-16 02:34:13: Connecting to pools...
+2021-Oct-16 02:34:19: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:34:20: Connection was closed.
+2021-Oct-16 02:34:20: Connecting to pools...
+2021-Oct-16 02:34:26: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.219 | ping: 276 ms.
+2021-Oct-16 02:34:27: Connection was closed.
+2021-Oct-16 02:34:27: Connecting to pools...
+2021-Oct-16 02:34:33: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:34:33: Connection was closed.
+2021-Oct-16 02:34:33: Connecting to pools...
+2021-Oct-16 02:34:39: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.73 | ping: 64 ms.
+2021-Oct-16 02:34:39: Connection was closed.
+2021-Oct-16 02:34:39: Connecting to pools...
+2021-Oct-16 02:34:45: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.76.65.223 | ping: 138 ms.
+2021-Oct-16 02:34:45: Connection was closed.
+2021-Oct-16 02:34:45: Connecting to pools...
+2021-Oct-16 02:34:52: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 144.217.14.109 | ping: 194 ms.
+2021-Oct-16 02:34:52: Connection was closed.
+2021-Oct-16 02:34:52: Connecting to pools...
+2021-Oct-16 02:34:58: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.55.162 | ping: 205 ms.
+2021-Oct-16 02:34:58: Connection was closed.
+2021-Oct-16 02:34:58: Connecting to pools...
+2021-Oct-16 02:35:05: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:35:05: Connection was closed.
+2021-Oct-16 02:35:05: Connecting to pools...
+2021-Oct-16 02:35:12: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 163.172.162.51 | ping: 276 ms.
+2021-Oct-16 02:35:12: Connection was closed.
+2021-Oct-16 02:35:12: Connecting to pools...
+2021-Oct-16 02:35:18: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:35:18: Connection was closed.
+2021-Oct-16 02:35:18: Connecting to pools...
+2021-Oct-16 02:35:24: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 172.104.165.191 | ping: 64 ms.
+2021-Oct-16 02:35:24: Connection was closed.
+2021-Oct-16 02:35:24: Connecting to pools...
+2021-Oct-16 02:35:30: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.76.65.223 | ping: 138 ms.
+2021-Oct-16 02:35:30: Connection was closed.
+2021-Oct-16 02:35:30: Connecting to pools...
+2021-Oct-16 02:35:37: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:35:37: Connection was closed.
+2021-Oct-16 02:35:37: Connecting to pools...
+2021-Oct-16 02:35:44: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 213.32.74.157 | ping: 205 ms.
+2021-Oct-16 02:35:44: Connection was closed.
+2021-Oct-16 02:35:44: Connecting to pools...
+2021-Oct-16 02:35:50: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:35:50: Connection was closed.
+2021-Oct-16 02:35:50: Connecting to pools...
+2021-Oct-16 02:35:57: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 163.172.162.51 | ping: 276 ms.
+2021-Oct-16 02:35:57: Connection was closed.
+2021-Oct-16 02:35:57: Connecting to pools...
+2021-Oct-16 02:36:03: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:36:03: Connection was closed.
+2021-Oct-16 02:36:03: Connecting to pools...
+2021-Oct-16 02:36:09: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 172.104.165.191 | ping: 64 ms.
+2021-Oct-16 02:36:09: Connection was closed.
+2021-Oct-16 02:36:09: Connecting to pools...
+2021-Oct-16 02:36:16: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 207.246.100.198 | ping: 138 ms.
+2021-Oct-16 02:36:16: Connection was closed.
+2021-Oct-16 02:36:16: Connecting to pools...
+2021-Oct-16 02:36:22: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:36:22: Connection was closed.
+2021-Oct-16 02:36:22: Connecting to pools...
+2021-Oct-16 02:36:29: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.79 | ping: 205 ms.
+2021-Oct-16 02:36:29: Connection was closed.
+2021-Oct-16 02:36:29: Connecting to pools...
+2021-Oct-16 02:36:36: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:36:36: Connection was closed.
+2021-Oct-16 02:36:36: Connecting to pools...
+2021-Oct-16 02:36:43: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.219 | ping: 276 ms.
+2021-Oct-16 02:36:43: Connection was closed.
+2021-Oct-16 02:36:43: Connecting to pools...
+2021-Oct-16 02:36:49: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:36:49: Connection was closed.
+2021-Oct-16 02:36:49: Connecting to pools...
+2021-Oct-16 02:36:55: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 172.104.165.191 | ping: 64 ms.
+2021-Oct-16 02:36:55: Connection was closed.
+2021-Oct-16 02:36:55: Connecting to pools...
+2021-Oct-16 02:37:01: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.76.65.223 | ping: 138 ms.
+2021-Oct-16 02:37:02: Connection was closed.
+2021-Oct-16 02:37:02: Connecting to pools...
+2021-Oct-16 02:37:08: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 142.44.242.100 | ping: 194 ms.
+2021-Oct-16 02:37:08: Connection was closed.
+2021-Oct-16 02:37:08: Connecting to pools...
+2021-Oct-16 02:37:15: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.67.17 | ping: 205 ms.
+2021-Oct-16 02:37:15: Connection was closed.
+2021-Oct-16 02:37:15: Connecting to pools...
+2021-Oct-16 02:37:21: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:37:21: Connection was closed.
+2021-Oct-16 02:37:21: Connecting to pools...
+2021-Oct-16 02:37:28: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 51.15.89.69 | ping: 276 ms.
+2021-Oct-16 02:37:28: Connection was closed.
+2021-Oct-16 02:37:28: Connecting to pools...
+2021-Oct-16 02:37:34: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:37:34: Connection was closed.
+2021-Oct-16 02:37:34: Connecting to pools...
+2021-Oct-16 02:37:40: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.71 | ping: 64 ms.
+2021-Oct-16 02:37:40: Connection was closed.
+2021-Oct-16 02:37:40: Connecting to pools...
+2021-Oct-16 02:37:47: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 149.28.212.250 | ping: 138 ms.
+2021-Oct-16 02:37:47: Connection was closed.
+2021-Oct-16 02:37:47: Connecting to pools...
+2021-Oct-16 02:37:53: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 142.44.242.100 | ping: 194 ms.
+2021-Oct-16 02:37:53: Connection was closed.
+2021-Oct-16 02:37:53: Connecting to pools...
+2021-Oct-16 02:38:00: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.79 | ping: 205 ms.
+2021-Oct-16 02:38:00: Connection was closed.
+2021-Oct-16 02:38:00: Connecting to pools...
+2021-Oct-16 02:38:07: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:38:07: Connection was closed.
+2021-Oct-16 02:38:07: Connecting to pools...
+2021-Oct-16 02:38:13: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 151.80.59.84 | ping: 276 ms.
+2021-Oct-16 02:38:14: Connection was closed.
+2021-Oct-16 02:38:14: Connecting to pools...
+2021-Oct-16 02:38:20: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.81.90 | ping: 37 ms.
+2021-Oct-16 02:38:20: Connection was closed.
+2021-Oct-16 02:38:20: Connecting to pools...
+2021-Oct-16 02:38:26: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.73 | ping: 64 ms.
+2021-Oct-16 02:38:26: Connection was closed.
+2021-Oct-16 02:38:26: Connecting to pools...
+2021-Oct-16 02:38:32: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 66.42.105.146 | ping: 138 ms.
+2021-Oct-16 02:38:32: Connection was closed.
+2021-Oct-16 02:38:32: Connecting to pools...
+2021-Oct-16 02:38:39: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:38:39: Connection was closed.
+2021-Oct-16 02:38:39: Connecting to pools...
+2021-Oct-16 02:38:45: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.79 | ping: 205 ms.
+2021-Oct-16 02:38:46: Connection was closed.
+2021-Oct-16 02:38:46: Connecting to pools...
+2021-Oct-16 02:38:52: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:38:52: Connection was closed.
+2021-Oct-16 02:38:52: Connecting to pools...
+2021-Oct-16 02:38:59: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 51.15.89.69 | ping: 276 ms.
+2021-Oct-16 02:38:59: Connection was closed.
+2021-Oct-16 02:38:59: Connecting to pools...
+2021-Oct-16 02:39:05: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:39:05: Connection was closed.
+2021-Oct-16 02:39:05: Connecting to pools...
+2021-Oct-16 02:39:11: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.101.232 | ping: 64 ms.
+2021-Oct-16 02:39:11: Connection was closed.
+2021-Oct-16 02:39:11: Connecting to pools...
+2021-Oct-16 02:39:18: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 104.238.180.207 | ping: 138 ms.
+2021-Oct-16 02:39:18: Connection was closed.
+2021-Oct-16 02:39:18: Connecting to pools...
+2021-Oct-16 02:39:24: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 144.217.14.139 | ping: 194 ms.
+2021-Oct-16 02:39:24: Connection was closed.
+2021-Oct-16 02:39:24: Connecting to pools...
+2021-Oct-16 02:39:31: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.67.17 | ping: 205 ms.
+2021-Oct-16 02:39:31: Connection was closed.
+2021-Oct-16 02:39:31: Connecting to pools...
+2021-Oct-16 02:39:37: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:39:38: Connection was closed.
+2021-Oct-16 02:39:38: Connecting to pools...
+2021-Oct-16 02:39:44: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 151.80.59.84 | ping: 276 ms.
+2021-Oct-16 02:39:44: Connection was closed.
+2021-Oct-16 02:39:44: Connecting to pools...
+2021-Oct-16 02:39:51: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:39:51: Connection was closed.
+2021-Oct-16 02:39:51: Connecting to pools...
+2021-Oct-16 02:39:57: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.71 | ping: 64 ms.
+2021-Oct-16 02:39:57: Connection was closed.
+2021-Oct-16 02:39:57: Connecting to pools...
+2021-Oct-16 02:40:03: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 66.42.105.146 | ping: 138 ms.
+2021-Oct-16 02:40:03: Connection was closed.
+2021-Oct-16 02:40:03: Connecting to pools...
+2021-Oct-16 02:40:10: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 142.44.243.6 | ping: 194 ms.
+2021-Oct-16 02:40:10: Connection was closed.
+2021-Oct-16 02:40:10: Connecting to pools...
+2021-Oct-16 02:40:16: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.55.100 | ping: 205 ms.
+2021-Oct-16 02:40:17: Connection was closed.
+2021-Oct-16 02:40:17: Connecting to pools...
+2021-Oct-16 02:40:23: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:40:23: Connection was closed.
+2021-Oct-16 02:40:23: Connecting to pools...
+2021-Oct-16 02:40:30: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.219 | ping: 276 ms.
+2021-Oct-16 02:40:30: Connection was closed.
+2021-Oct-16 02:40:30: Connecting to pools...
+2021-Oct-16 02:40:36: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 172.105.211.250 | ping: 37 ms.
+2021-Oct-16 02:40:36: Connection was closed.
+2021-Oct-16 02:40:36: Connecting to pools...
+2021-Oct-16 02:40:42: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.71 | ping: 64 ms.
+2021-Oct-16 02:40:42: Connection was closed.
+2021-Oct-16 02:40:42: Connecting to pools...
+2021-Oct-16 02:40:49: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 66.42.105.146 | ping: 138 ms.
+2021-Oct-16 02:40:49: Connection was closed.
+2021-Oct-16 02:40:49: Connecting to pools...
+2021-Oct-16 02:40:55: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 144.217.14.109 | ping: 194 ms.
+2021-Oct-16 02:40:55: Connection was closed.
+2021-Oct-16 02:40:55: Connecting to pools...
+2021-Oct-16 02:41:02: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.255.34.80 | ping: 205 ms.
+2021-Oct-16 02:41:02: Connection was closed.
+2021-Oct-16 02:41:02: Connecting to pools...
+2021-Oct-16 02:41:09: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:41:09: Connection was closed.
+2021-Oct-16 02:41:09: Connecting to pools...
+2021-Oct-16 02:41:15: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 163.172.162.51 | ping: 276 ms.
+2021-Oct-16 02:41:16: Connection was closed.
+2021-Oct-16 02:41:16: Connecting to pools...
+2021-Oct-16 02:41:22: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:41:22: Connection was closed.
+2021-Oct-16 02:41:22: Connecting to pools...
+2021-Oct-16 02:41:28: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.102.71 | ping: 64 ms.
+2021-Oct-16 02:41:28: Connection was closed.
+2021-Oct-16 02:41:28: Connecting to pools...
+2021-Oct-16 02:41:34: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 45.32.71.82 | ping: 138 ms.
+2021-Oct-16 02:41:34: Connection was closed.
+2021-Oct-16 02:41:34: Connecting to pools...
+2021-Oct-16 02:41:41: Connected to pool: eth-us-east1.nanopool.org:9433 | IP: 192.99.69.170 | ping: 194 ms.
+2021-Oct-16 02:41:41: Connection was closed.
+2021-Oct-16 02:41:41: Connecting to pools...
+2021-Oct-16 02:41:47: Connected to pool: eth-eu2.nanopool.org:9433 | IP: 51.15.55.162 | ping: 205 ms.
+2021-Oct-16 02:41:47: Connection was closed.
+2021-Oct-16 02:41:47: Connecting to pools...
+2021-Oct-16 02:41:54: Connected to pool: eth-au1.nanopool.org:9433 | IP: 139.99.156.30 | ping: 207 ms.
+2021-Oct-16 02:41:54: Connection was closed.
+2021-Oct-16 02:41:54: Connecting to pools...
+2021-Oct-16 02:42:01: Connected to pool: eth-eu1.nanopool.org:9433 | IP: 213.32.74.230 | ping: 276 ms.
+2021-Oct-16 02:42:01: Connection was closed.
+2021-Oct-16 02:42:01: Connecting to pools...
+2021-Oct-16 02:42:07: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.112.195 | ping: 37 ms.
+2021-Oct-16 02:42:07: Connection was closed.
+2021-Oct-16 02:42:07: Connecting to pools...
+2021-Oct-16 02:42:13: Connected to pool: eth-asia1.nanopool.org:9433 | IP: 139.99.101.232 | ping: 64 ms.
+2021-Oct-16 02:42:13: Connection was closed.
+2021-Oct-16 02:42:13: Connecting to pools...
+2021-Oct-16 02:46:11: Connected to pool: eth-us-west1.nanopool.org:9433 | IP: 207.246.100.198 | ping: 138 ms.
+2021-Oct-16 02:46:11: Connection was closed.

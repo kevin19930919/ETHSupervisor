@@ -1,0 +1,50 @@
+2021-Oct-16 13:45:21:                                    _                 
+2021-Oct-16 13:45:21:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Oct-16 13:45:21: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Oct-16 13:45:21: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Oct-16 13:45:21: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Oct-16 13:45:21: 
+2021-Oct-16 13:45:21: Version 3.3.13
+2021-Oct-16 13:45:21: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Oct-16 13:45:21: Started web interface on port 9090 without a password.
+2021-Oct-16 13:45:21: CUDA driver version is 11.0, runtime version is 10.0
+2021-Oct-16 13:45:21: Single device detected
+2021-Oct-16 13:45:21: GPU 0 PCI 65:00.0, Platform: CUDA, Name: GeForce GTX 1070, 8116 MB available
+2021-Oct-16 13:45:21: -------------------Ethash:------------------
+2021-Oct-16 13:45:21: Currency: Ethereum
+2021-Oct-16 13:45:21: Wallet: 0xe4aa3bfec6d4e205df1e8b19263b587424484fad
+2021-Oct-16 13:45:21: Rig name: Rig001
+2021-Oct-16 13:45:21: Email: kevin19930919@gmail.com
+2021-Oct-16 13:45:21: Hashrate threshold to restart miner is not set
+2021-Oct-16 13:45:21: Number of rejected shares per hour to restart miner is not set
+2021-Oct-16 13:45:21: Added pool: eth-jp1.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-asia1.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-us-west1.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-us-east1.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-au1.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-eu2.nanopool.org:9433
+2021-Oct-16 13:45:21: Added pool: eth-eu1.nanopool.org:9433
+2021-Oct-16 13:45:21: Auto pool sorting is enabled
+2021-Oct-16 13:45:21: Using all GPU devices
+2021-Oct-16 13:45:21: Memory tweak: 1
+2021-Oct-16 13:45:21: -------------Common parameters:-------------
+2021-Oct-16 13:45:21: Log path: ./logs/
+2021-Oct-16 13:45:21: Log is written to file
+2021-Oct-16 13:45:21: GPU watchdog is enabled
+2021-Oct-16 13:45:21: Never calling reboot.sh (always restarting the miner in case of errors). 
+2021-Oct-16 13:45:21: Setting up algorithm: Ethash
+2021-Oct-16 13:45:22: Connecting to pools...
+2021-Oct-16 13:45:28: Connected to pool: eth-jp1.nanopool.org:9433 | IP: 139.162.81.90 | ping: 36 ms.
+2021-Oct-16 13:45:28: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:45:34: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:45:40: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:45:46: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:45:52: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:45:58: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:04: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:11: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:17: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:23: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:29: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:35: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
+2021-Oct-16 13:46:41: Ethereum: trying to use "stratum" mining protocol... to disable this behaviour, specify: protocol=JSON-RPC
