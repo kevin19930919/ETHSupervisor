@@ -3,6 +3,8 @@ from subprocess import check_output
 import os
 import sys
 
+from mailModule import MailHandler
+
 class ETHMinerHandler():
 
     minerModulePath = '/data2/kevin7552/ETHMinner/nanominer-linux-3.3.13'
@@ -67,6 +69,7 @@ if __name__ == "__main__":
                 pidList = ETHMinerHandler.get_ethminer_pid()
                 #kill all miner service
                 ETHMinerHandler.kill_miner(pidList)
+                MailHandler.send_mail(f"detect an user log in server,stop mining")
             except:
                 #exit self
                 sys.exit()    
