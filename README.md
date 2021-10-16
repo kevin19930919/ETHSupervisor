@@ -1,0 +1,2 @@
+# ETHSupervisor
+eth miner
